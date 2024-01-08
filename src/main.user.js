@@ -5,8 +5,8 @@
 // @license      Apache-2.0
 // @author       NaebangFamily
 // @version      1.0.0
-// @updateURL    https://github.com/NaebangFamily/searchSupport/raw/master/src/main.user.js
-// @downloadURL  https://github.com/NaebangFamily/searchSupport/raw/master/src/main.user.js
+// @updateURL    https://github.com/SeongYeopKim/searchSupport/blob/main/src/main.user.js
+// @downloadURL  https://github.com/SeongYeopKim/searchSupport/blob/main/src/main.user.js
 // @connect      naver.com
 // @match        *://search.naver.com/search.naver?*
 // @match        *://m.search.naver.com/search.naver?*
