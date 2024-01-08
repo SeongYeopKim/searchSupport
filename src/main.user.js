@@ -3,7 +3,7 @@
 // @description  네이버 검색결과에서 상대평가 지수를 확인할 수 있습니다.
 // @namespace    http://tampermonkey.net/
 // @license      Apache-2.0
-// @author       NaebangFamily
+// @author       SeongYeopKim
 // @version      1.0.0
 // @updateURL    https://github.com/SeongYeopKim/searchSupport/blob/main/src/main.user.js
 // @downloadURL  https://github.com/SeongYeopKim/searchSupport/blob/main/src/main.user.js
