@@ -4,7 +4,7 @@
 // @namespace    http://tampermonkey.net/
 // @license      Apache-2.0
 // @author       SeongYeopKim
-// @version      1.0.0
+// @version      1.0.1
 // @updateURL    https://github.com/SeongYeopKim/searchSupport/blob/main/src/main.user.js
 // @downloadURL  https://github.com/SeongYeopKim/searchSupport/blob/main/src/main.user.js
 // @connect      naver.com
