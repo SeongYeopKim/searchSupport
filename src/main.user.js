@@ -62,5 +62,7 @@ GM_App(async function main() {
     :not([data-cr-area="rvw*o"])[data-cr-rank][data-cr-score-a][data-cr-score-b][data-cr-score-c][data-cr-title-score]::after { content: '전문성: ' attr(data-cr-score-a) ' / 신뢰성: ' attr(data-cr-score-b) ' / 관련성: (알 수 없음)' }
     :not([data-cr-area="rvw*o"])[data-cr-rank]:not([data-cr-score-a])::after { background-color: #e4002b; color: #fff; content: '오류 : 분석 결과를 알 수 없음.'; }
     `);
-    const wrp = document.querySelector('ul.lst_total'); if(wrp) observe(wrp);
+    let wrp = document.querySelector('ul.lst_total');
+    if(!wrp) wrp = document.querySelector('ul.lst_view');
+    if(wrp) observe(wrp);
 })
